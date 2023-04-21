@@ -14,7 +14,11 @@ imgSize = 300
 folder = "letras"
 counter = 0
  
+<<<<<<< HEAD
 labels = ["A", "B", "C"]
+=======
+labels = ["A", "B"]
+>>>>>>> 5dfe48ad983e7e56947de52fc187489c0006136b
  
 while True:
     success, img = cap.read()
